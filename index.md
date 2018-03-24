@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## dou
 
 You can use the [editor on GitHub](https://github.com/albertyouquan/dou/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
